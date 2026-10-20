@@ -1,0 +1,11 @@
+{
+  "name": "text-motion-library-portable",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "payload": "node scripts/chatcut-payload.mjs"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频剪辑工作流"
+  short_description: "先确认自己的说话与画面风格，再用 ChatCut 制作可编辑视频并验收"
+  default_prompt: "使用 $video-editing-workflow，先读取已有材料，补问画幅、人物布局、字体、素材与说话风格中缺失的设置，确认后按当前阶段接续剪辑。"

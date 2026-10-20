@@ -1,0 +1,610 @@
+{
+  "date": "2026-10-19",
+  "includesCredentials": false,
+  "entries": [
+    {
+      "name": "animation-vocabulary",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/emilkowalski/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/animation-vocabulary"
+    },
+    {
+      "name": "animator-skill",
+      "delivery": "upstream-install",
+      "source": "https://github.com/rainlib/ai-storyboard",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "apple-design",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/emilkowalski/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/apple-design"
+    },
+    {
+      "name": "dbs-content",
+      "delivery": "upstream-install",
+      "source": "https://github.com/dontbesilent2025/dbskill",
+      "sourceEvidence": "Current upstream repository and root license read; old skill names may have changed",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "CC BY-NC 4.0; not bundled; not a default commercial-use route"
+    },
+    {
+      "name": "dbs-hook",
+      "delivery": "upstream-install",
+      "source": "https://github.com/dontbesilent2025/dbskill",
+      "sourceEvidence": "Current upstream repository and root license read; old skill names may have changed",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "CC BY-NC 4.0; not bundled; not a default commercial-use route",
+      "currentStatus": "Original name absent in current upstream tree; inspect current dbs-title-cover-intro / dbs-script-flow for an appropriate replacement; do not substitute silently",
+      "currentAlternatives": [
+        "dbs-title-cover-intro",
+        "dbs-script-flow"
+      ]
+    },
+    {
+      "name": "dbs-xhs-title",
+      "delivery": "upstream-install",
+      "source": "https://github.com/dontbesilent2025/dbskill",
+      "sourceEvidence": "Current upstream repository and root license read; old skill names may have changed",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "CC BY-NC 4.0; not bundled; not a default commercial-use route",
+      "currentStatus": "Original name absent in current upstream tree; current dbs-title-cover-intro is a candidate, not an automatic replacement",
+      "currentAlternatives": [
+        "dbs-title-cover-intro"
+      ]
+    },
+    {
+      "name": "embedded-captions",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "emil-design-eng",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/emilkowalski/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/emil-design-eng"
+    },
+    {
+      "name": "faceless-explainer",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "find-animation-opportunities",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/emilkowalski/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/find-animation-opportunities"
+    },
+    {
+      "name": "gbro-collage-broll",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/pyang5166/gbro-collage-broll",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gbro-collage-broll"
+    },
+    {
+      "name": "gbro-collage-info",
+      "delivery": "upstream-install",
+      "source": "https://github.com/pyang5166/gbro-collage-info",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "Original MIT source plus separately licensed GSAP runtime and Mixkit audio; not redistributed in this bundle"
+    },
+    {
+      "name": "general-video",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "good-broll",
+      "delivery": "bundled-optional",
+      "source": null,
+      "sourceEvidence": "Local received package with MIT copyright Amber Huang retained; public upstream repository not established",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/good-broll"
+    },
+    {
+      "name": "gsap-core",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-core"
+    },
+    {
+      "name": "gsap-frameworks",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-frameworks"
+    },
+    {
+      "name": "gsap-performance",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-performance"
+    },
+    {
+      "name": "gsap-plugins",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-plugins"
+    },
+    {
+      "name": "gsap-react",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-react"
+    },
+    {
+      "name": "gsap-scrolltrigger",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-scrolltrigger"
+    },
+    {
+      "name": "gsap-timeline",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-timeline"
+    },
+    {
+      "name": "gsap-utils",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/greensock/gsap-skills",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/gsap-utils"
+    },
+    {
+      "name": "humanizer-zh",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/op7418/humanizer-zh",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/humanizer-zh"
+    },
+    {
+      "name": "hyperframes",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-animation",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-audio",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-cli",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-core",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-creative",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-keyframes",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "hyperframes-registry",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "improve-animations",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/emilkowalski/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/improve-animations"
+    },
+    {
+      "name": "media-use",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "motion-graphics",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "music-to-video",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "onetake",
+      "delivery": "upstream-install",
+      "source": "https://github.com/feitangyuan/onetake",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "PolyForm Noncommercial; not bundled; verify authorization for commercial use"
+    },
+    {
+      "name": "product-launch-video",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "remotion-to-hyperframes",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "review-animations",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/emilkowalski/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/review-animations"
+    },
+    {
+      "name": "seedance-prompt-en",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/pa4uslf/seedance2-codex-skill",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/seedance-prompt-en"
+    },
+    {
+      "name": "seedance-prompt-zh",
+      "delivery": "bundled-optional",
+      "source": "https://github.com/pa4uslf/seedance2-codex-skill",
+      "sourceEvidence": "not established; do not guess a same-name repository",
+      "redistributed": true,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "MIT; original copyright and license retained",
+      "packagePath": "third_party/skills/seedance-prompt-zh"
+    },
+    {
+      "name": "seedance-storyboard",
+      "delivery": "upstream-install",
+      "source": "https://github.com/elementsix/elementsix-skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "shuorenhua",
+      "delivery": "source-pending",
+      "source": null,
+      "sourceEvidence": "Local version origin remains unconfirmed; current MrGeDiao version differs substantially",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license",
+      "alternativeSource": "https://github.com/MrGeDiao/shuorenhua",
+      "alternativeNote": "Verified optional alternative, not established as the source of the installed local copy; ask before substituting"
+    },
+    {
+      "name": "storyboard-creation",
+      "delivery": "upstream-install",
+      "source": "https://github.com/tool-belt/skills",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "talking-head-recut",
+      "delivery": "upstream-install",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "threejs-animation",
+      "delivery": "upstream-install",
+      "source": "https://github.com/CloudAI-X/threejs-skills",
+      "sourceEvidence": "Upstream matching skill family verified; local installed content is not byte-identical to current upstream",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "threejs-fundamentals",
+      "delivery": "upstream-install",
+      "source": "https://github.com/CloudAI-X/threejs-skills",
+      "sourceEvidence": "Upstream matching skill family verified; local installed content is not byte-identical to current upstream",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "threejs-interaction",
+      "delivery": "upstream-install",
+      "source": "https://github.com/CloudAI-X/threejs-skills",
+      "sourceEvidence": "Upstream matching skill family verified; local installed content is not byte-identical to current upstream",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "threejs-lighting",
+      "delivery": "upstream-install",
+      "source": "https://github.com/CloudAI-X/threejs-skills",
+      "sourceEvidence": "Upstream matching skill family verified; local installed content is not byte-identical to current upstream",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "threejs-loaders",
+      "delivery": "upstream-install",
+      "source": "https://github.com/CloudAI-X/threejs-skills",
+      "sourceEvidence": "Upstream matching skill family verified; local installed content is not byte-identical to current upstream",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "threejs-materials",
+      "delivery": "upstream-install",
+      "source": "https://github.com/CloudAI-X/threejs-skills",
+      "sourceEvidence": "Upstream matching skill family verified; local installed content is not byte-identical to current upstream",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "video-prompting",
+      "delivery": "upstream-install",
+      "source": "https://github.com/square-zero-labs/video-prompting-skill",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "video-shotcraft",
+      "delivery": "upstream-install",
+      "source": "https://github.com/Vincentwei1021/video-shotcraft",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "Apache-2.0 source; audio and Remotion runtime have independent terms; install upstream"
+    },
+    {
+      "name": "video-use",
+      "delivery": "upstream-install",
+      "source": "https://github.com/browser-use/video-use",
+      "sourceEvidence": "local installed source/registry; selected repository pages checked",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "xiaohu-subtitle-polish",
+      "delivery": "upstream-install",
+      "source": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "sourceEvidence": "Current upstream README names this component; local user configuration is excluded",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "xiaohu-video-md",
+      "delivery": "upstream-install",
+      "source": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "sourceEvidence": "Current upstream README names this component; local user configuration is excluded",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional; only when the current shot needs it",
+      "licenseStatus": "retains upstream terms; not covered by this package license"
+    },
+    {
+      "name": "seedance-2.0-prompter",
+      "delivery": "upstream-install",
+      "source": "https://github.com/pexoai/pexo-skills",
+      "sourceEvidence": "local installation registry",
+      "redistributed": false,
+      "productionTestedInThisPackage": false,
+      "scope": "optional prompt writing",
+      "licenseStatus": "check upstream"
+    }
+  ],
+  "licenseSelection": {
+    "ownContent": "MIT",
+    "copyrightHolder": "belalee-ai"
+  }
+}

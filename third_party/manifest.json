@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-19",
+  "components": [
+    {
+      "name": "gsap-core",
+      "path": "third_party/skills/gsap-core",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-core/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "08cff8a8b6d0ddf8bfb371c6e6261cdbd825ee2e073989daf01cf4e51c22eb56"
+        }
+      ]
+    },
+    {
+      "name": "gsap-frameworks",
+      "path": "third_party/skills/gsap-frameworks",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-frameworks/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "601b66d3e96002960b2335a1f391f86ebd0ffe7cdea7675b5a00b405dbe6ff8f"
+        }
+      ]
+    },
+    {
+      "name": "gsap-performance",
+      "path": "third_party/skills/gsap-performance",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-performance/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "802d94be0f133366e9c7a7bddb2ce9aeacae62d2742e3188e9ea6880b6be03ac"
+        }
+      ]
+    },
+    {
+      "name": "gsap-plugins",
+      "path": "third_party/skills/gsap-plugins",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-plugins/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "62d4ba311ebe765a149420de630cd6a1fc4ba5d3986d5e32b2830f9f829bb431"
+        }
+      ]
+    },
+    {
+      "name": "gsap-react",
+      "path": "third_party/skills/gsap-react",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-react/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "425baa5634e4228c9b2d6a03f927415cbd36e603df6264e9697b1282e70f0ea2"
+        }
+      ]
+    },
+    {
+      "name": "gsap-scrolltrigger",
+      "path": "third_party/skills/gsap-scrolltrigger",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-scrolltrigger/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "51a6e3d7bce47ad3f681f0e6af31148a02b7fd5d78958f13855181b9de4c95ee"
+        }
+      ]
+    },
+    {
+      "name": "gsap-timeline",
+      "path": "third_party/skills/gsap-timeline",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-timeline/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "406a37c3c5f9c325a3fbc92d8293f2574ef74cd52be1bf2544e6b243b21f5695"
+        }
+      ]
+    },
+    {
+      "name": "gsap-utils",
+      "path": "third_party/skills/gsap-utils",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gsap-utils/LICENSE",
+      "source": "https://github.com/greensock/gsap-skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "51b04b06556662dd817e8f4aa6d06bc7139dc73739e1319a7233cfde3e147b90"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "09898598feace585ebb4d7c3d2b90f14efd62c652ecaff7acb8ed48e4439eff9"
+        }
+      ]
+    },
+    {
+      "name": "animation-vocabulary",
+      "path": "third_party/skills/animation-vocabulary",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/animation-vocabulary/LICENSE",
+      "source": "https://github.com/emilkowalski/skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "09bec6f26f18ec75860fc6969eaf349ea848d6bd0df0f7a183fbe50c1f0159e9"
+        }
+      ]
+    },
+    {
+      "name": "apple-design",
+      "path": "third_party/skills/apple-design",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/apple-design/LICENSE",
+      "source": "https://github.com/emilkowalski/skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "DESIGN-REFERENCE.md",
+          "sha256": "f8f0267303d4fca5e0b3a414e2f2c7d95d49b303b2cfe15d4e63397ceebd526a"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "fad53009776913b129553ebcff8c1948b53b5bf06d73b89a7b9f037e45d7f086"
+        }
+      ]
+    },
+    {
+      "name": "emil-design-eng",
+      "path": "third_party/skills/emil-design-eng",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/emil-design-eng/LICENSE",
+      "source": "https://github.com/emilkowalski/skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "DESIGN-REFERENCE.md",
+          "sha256": "26832c326f9a4adcb42819e02c6a9ea1eb87489d35c356cc0e59ed6e344d68a0"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "2956b39505aa4f852e27b3b6e7d66c905514138c3a7d80f543d849c145b75829"
+        }
+      ]
+    },
+    {
+      "name": "find-animation-opportunities",
+      "path": "third_party/skills/find-animation-opportunities",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/find-animation-opportunities/LICENSE",
+      "source": "https://github.com/emilkowalski/skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "9f4f9435a9c9b5eed4990776a68cbb451b0e7d539a61c00d826cfb0568eec18e"
+        }
+      ]
+    },
+    {
+      "name": "improve-animations",
+      "path": "third_party/skills/improve-animations",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/improve-animations/LICENSE",
+      "source": "https://github.com/emilkowalski/skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": "AUDIT.md",
+          "sha256": "551c8473e20e5f4774680bc24d45e1c68e50992582720905c6b077756b7b5a55"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b"
+        },
+        {
+          "file": "PLAN-TEMPLATE.md",
+          "sha256": "0a08ac8e23fd2082d7ffb86aeed7b789de77328c3cf874b16f1a755f2ef0a6ad"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "ea81f48558ffe8d5deec82951b259c87ac3d1d0186cdd697db8f5b51d061be2b"
+        }
+      ]
+    },
+    {
+      "name": "review-animations",
+      "path": "third_party/skills/review-animations",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/review-animations/LICENSE",
+      "source": "https://github.com/emilkowalski/skills",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences",
+        "Preserved upstream Claude explicit-only frontmatter and added equivalent Codex allow_implicit_invocation false policy"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "5193ad7439b70666b1cf0d7efd8131e79ae81b9f6dc18c984f18c1996fec8211"
+        },
+        {
+          "file": "STANDARDS.md",
+          "sha256": "e7d3605034acda54ca13e43aec9e64d65b53de20f75b11b8d694e373012fbe07"
+        },
+        {
+          "file": "agents/openai.yaml",
+          "sha256": "a1499d95abd8447558c535fe5554adcc3c9b988a0a39264a6283d430effe1e94"
+        }
+      ]
+    },
+    {
+      "name": "humanizer-zh",
+      "path": "third_party/skills/humanizer-zh",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/humanizer-zh/LICENSE",
+      "source": "https://github.com/op7418/humanizer-zh",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": ".gitignore",
+          "sha256": "e52aac198acd71945e1730f45cafba41fffda4e2a0d7d6a38175880aae8eabea"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7"
+        },
+        {
+          "file": "README.md",
+          "sha256": "60cd3ed8b4753837ca8f8fcebf6076a38591a269d91ea1791aa7448e5a1b1b58"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "2d272e88178565ecddb7c789d01a6f60d8eaf7f5d5917c751f0f0141831e125a"
+        }
+      ]
+    },
+    {
+      "name": "good-broll",
+      "path": "third_party/skills/good-broll",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/good-broll/LICENSE",
+      "source": null,
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": ".gitignore",
+          "sha256": "53f0c100a33a56ebada040287b3d0f5dbab21c6ec6b66209fec5515c508f1144"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "91f2205e80161bf2482d17f1ef3ec0c2cbaef4d653e2035198d22ad1d095d91d"
+        },
+        {
+          "file": "README.md",
+          "sha256": "9301d9fab3fedcf9a4e93aac997d7b29730cb30aacf0d0ee5f5094ab6b136a02"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "2ff280d412f2d2efedb41ebfbf0e7c4abff1ae4978b0bf4b895fc94f5b6bf350"
+        },
+        {
+          "file": "assets/showcase/editorial-collage.png",
+          "sha256": "1cbd94f731cca057417a741e3d4fecc7c7b723f75f740fa3d62f7c91399af510"
+        },
+        {
+          "file": "assets/showcase/good-broll-showcase.png",
+          "sha256": "901fe766aa1722142874487a92084880db36533e97345da76bb1ff26f31bdc81"
+        },
+        {
+          "file": "assets/showcase/playful-3d-cartoon.png",
+          "sha256": "8a99995de2cb0ff9cbe4de70f9269e80c1fbd2de860a2633e27c95f774db474d"
+        },
+        {
+          "file": "assets/showcase/warm-handdrawn.png",
+          "sha256": "5cd622388ee62a1d68f7327de53204bfebfb029ada09a5643a9184bd65743bea"
+        },
+        {
+          "file": "assets/showcase/warm-sketch-explainer.png",
+          "sha256": "b8244d14d1f7fb795b26681b0739da48871fab1c33adfb0708dab4701b4bf5a3"
+        },
+        {
+          "file": "assets/showcase/whiteboard-doodle.png",
+          "sha256": "48831be211f51a4dc4f94ca2459a5d65f750fd3801439899277222da75895700"
+        },
+        {
+          "file": "references/style_templates.md",
+          "sha256": "62f51e4144edaa8b08f5ead12b81e562c4599b436b889fb251c242f4db188259"
+        },
+        {
+          "file": "scripts/generate_showcase.py",
+          "sha256": "471d3edcb8355eafe8e94677f7f5df173e426ca5aaafe5b3da84723485865ef1"
+        }
+      ]
+    },
+    {
+      "name": "gbro-collage-broll",
+      "path": "third_party/skills/gbro-collage-broll",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/gbro-collage-broll/LICENSE",
+      "source": "https://github.com/pyang5166/gbro-collage-broll",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences"
+      ],
+      "files": [
+        {
+          "file": ".gitignore",
+          "sha256": "9addeec56619685bab330ff2184db9f205a1b4628f551ededcb97800b269ca3e"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "cf04042714edab0e8364b7c3012f6ad923be17cb838da1a8516d047c4f4035d3"
+        },
+        {
+          "file": "README.md",
+          "sha256": "49f3f238469d796304d46652e13bbcb8ad78c63f51550282ef922a669c96294c"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "74b3b8273e7e0f5d08f87e933b3844220ee1a5b66888f70b2ff08b4488f7d9bd"
+        },
+        {
+          "file": "agents/openai.yaml",
+          "sha256": "e387347e5f8802a9bf089379421e9fd35129ec2a89a9ad114a079103e87a1741"
+        },
+        {
+          "file": "assets/demo-purple.gif",
+          "sha256": "4ede215e396d333346ad7f41c01735d71f26f5ce669ead6f415a8e9e9962a5ca"
+        },
+        {
+          "file": "assets/demo-red.gif",
+          "sha256": "d1a42c82bb94eb1a997a3dc3d08993210c7a27ef22f610b09e06aab9baa4eef9"
+        },
+        {
+          "file": "assets/demo-teal.gif",
+          "sha256": "1a067db7df86aecc617d85205c6bbde889d2a7d26d2d001d4d5a5c945b5ede48"
+        },
+        {
+          "file": "assets/demo-yellow.gif",
+          "sha256": "6260254561dee64362c1ab9a7dfad3ae4405ad45978d71a7b837e93f04cad61c"
+        },
+        {
+          "file": "evals/evals.json",
+          "sha256": "75dbbf272b045c71374d802ca8ff50e3db25215149065e74c9391c6fde5fbe1e"
+        },
+        {
+          "file": "scripts/check_setup.sh",
+          "sha256": "b618ac07656383b84b08d2fe0516baa9cc9c3b24edc0a44180201745a47e8293"
+        },
+        {
+          "file": "scripts/generate_veo_first_last.py",
+          "sha256": "1d4beaddd4d0977c2f68da34a28091c0e7d8a9cc9c2c36bafbb4ce43f0d17b55"
+        },
+        {
+          "file": "scripts/generate_video.py",
+          "sha256": "65a0df986570871c69aab9634141b0a788bcb484b35cbd23f7806d20a1b0bd73"
+        },
+        {
+          "file": "scripts/upload_file.py",
+          "sha256": "fefe290e28212d642bc333ce9591e0b6e474efab451695dcd628cd99535cf064"
+        }
+      ]
+    },
+    {
+      "name": "seedance-prompt-en",
+      "path": "third_party/skills/seedance-prompt-en",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/seedance-prompt-en/LICENSE",
+      "source": "https://github.com/pa4uslf/seedance2-codex-skill",
+      "provenance": "installed-local-copy",
+      "modifications": [
+        "Added video-workflow intake and confirmation integration note; upstream examples do not set user preferences",
+        "Chinese language entry extracted into sibling seedance-prompt-zh to prevent duplicate discovery; README links adjusted"
+      ],
+      "files": [
+        {
+          "file": ".gitignore",
+          "sha256": "f01a735db7a543b6ef3ea48bda109e9f43788356e5283fcefe2bf6b6e6388db4"
+        },
+        {
+          "file": "LICENSE",
+          "sha256": "56abf51bba5502dcc1cd014c9adea5787cd9eec67421858484b660ec97922978"
+        },
+        {
+          "file": "README-zh.md",
+          "sha256": "228763c4f22f33a07445c2c15bc4a88d16dbc9f035aece0f37a83ee1241331eb"
+        },
+        {
+          "file": "README.md",
+          "sha256": "16f0916ade9eb0b9833e4a4440f458a48a54bb51557b917db450b5377710539a"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "99dcb10dd16d418baddbc81e5f1a9341232502fb2da073d2c5dfb774e079edae"
+        }
+      ]
+    },
+    {
+      "name": "seedance-prompt-zh",
+      "path": "third_party/skills/seedance-prompt-zh",
+      "license": "MIT",
+      "licenseFile": "third_party/skills/seedance-prompt-zh/LICENSE",
+      "source": "https://github.com/pa4uslf/seedance2-codex-skill",
+      "provenance": "Chinese language resource from installed MIT package",
+      "modifications": [
+        "Added video-workflow integration note"
+      ],
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "56abf51bba5502dcc1cd014c9adea5787cd9eec67421858484b660ec97922978"
+        },
+        {
+          "file": "SKILL.md",
+          "sha256": "294d2a5b9d9a513e0fd8ea97d6d29c1c97ec0d9ee19be70e16b2e4e214e70c66"
+        }
+      ]
+    }
+  ]
+}
