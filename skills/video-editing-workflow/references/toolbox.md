@@ -8,7 +8,7 @@
 | [spoken-video-script](../../spoken-video-script/SKILL.md) | 使用者自己的口播与写稿 |
 | [video-broll-director](../../video-broll-director/SKILL.md) | 真实素材、信息动画、人物与隐喻分诊 |
 | [video-motion-director](../../video-motion-director/SKILL.md) | 动效选型、完成态与单样例 |
-| [speech-progress-overlay](../../speech-progress-overlay/SKILL.md) | 可编辑语音章节进度条 |
+| [speech-progress-overlay](../../speech-progress-overlay/SKILL.md) | 章节/无标签、无人物/固定/跟随进度条，附配置与浏览器预览源码 |
 | [video-character-assets](../../video-character-assets/SKILL.md) | 用户自己的真人或 IP 静态素材 |
 | [handdrawn-video-diagrams](../../handdrawn-video-diagrams/SKILL.md) | 手绘故事、流程与关系图示 |
 | [news-explainer-video](../../news-explainer-video/SKILL.md) | 新闻事实、机制与真实素材 |
@@ -16,7 +16,7 @@
 | [video-frame-art](../../video-frame-art/SKILL.md) | 可信选帧与静帧转译 |
 | [text-motion-library](../../text-motion-library/SKILL.md) | 基础 001–030 的文字动作源码与载荷 |
 
-这些通用入口不携带原作者个人风格、人物或工程。文字动效附真实源码；其他入口提供通用制作方法，在用户确认后通过实际工具生成结果。
+这些通用入口不携带原作者个人风格、人物或工程。文字动效与进度条附通用源码（分别为载荷生成与浏览器预览）；其他入口提供通用制作方法，在用户确认后通过实际工具生成结果。
 
 ## 随包可选第三方（19 个）
 

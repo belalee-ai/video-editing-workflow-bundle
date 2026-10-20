@@ -40,6 +40,8 @@ description: 用于口播、录屏与解释视频的需求确认、分镜、Chat
 
 进入 ChatCut 时读 [ChatCut 接入](references/chatcut.md)。按任务读取用户当前安装的官方插件说明，不复制旧插件目录、版本路径或不可用的工具名。
 
+用户要求进度条、章节导航或人物跟随进度时，调用随包 [speech-progress-overlay](../speech-progress-overlay/SKILL.md)，沿用本项目设置并仅补问缺项；不套用作者人物/配色。
+
 关联能力及安装状态见 [组合包能力路由](references/toolbox.md)。只加载当前需要的 Skill。实际缺少插件、脚本、模型或权限时，说明缺口并给可行选择；不能把清单、提示词或文件安装说成已能出片。其他后端只在用户选择或同意切换后使用。
 
 ## 制作与交付底线

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "purpose": "Synthetic timing and neutral demo only; not an approved user profile",
+  "canvas": {"width": 1080, "height": 1920, "fps": 30},
+  "durationSeconds": 6,
+  "labels": "chapters",
+  "dividers": true,
+  "transitionSeconds": 0.4,
+  "safeArea": {"x": 60, "y": 180, "width": 960, "height": 1500},
+  "layout": {"x": 90, "y": 220, "width": 900, "labelHeight": 70, "gap": 18, "lineHeight": 5, "radius": 4, "cursorRadius": 8},
+  "font": {"family": "sans-serif", "size": 30, "weight": 500},
+  "colors": {"future": "#657080", "active": "#243448", "base": "#8993a0", "fill": "#3c526c", "line": "#324d70", "cursor": "#324d70"},
+  "opacity": {"base": 0.14, "fill": 0.2},
+  "character": {"mode": "none"},
+  "modules": [
+    {"label": "提出问题", "start": 0, "end": 2, "width": 1, "timing": "words", "words": [{"text": "演示", "start": 0.2, "end": 0.7}, {"text": "问题", "start": 1.1, "end": 1.8}]},
+    {"label": "操作方法", "start": 2, "end": 4.2, "width": 1.2, "timing": "words", "words": [{"text": "演示", "start": 2.2, "end": 2.8}, {"text": "操作", "start": 3.1, "end": 4}]},
+    {"label": "查看结果", "start": 4.2, "end": 6, "width": 1, "timing": "words", "words": [{"text": "演示", "start": 4.3, "end": 4.9}, {"text": "结果", "start": 5.2, "end": 5.8}]}
+  ]
+}
