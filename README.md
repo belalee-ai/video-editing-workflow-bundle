@@ -1,6 +1,6 @@
 # 视频剪辑工作流组合包
 
-**交付形态：GitHub Private 私有测试版。自有内容采用 MIT，版权署名为 belalee-ai；朋友环境的端到端出片尚未实测。**
+**交付形态：GitHub Public 公开测试版。自有内容采用 MIT，版权署名为 belalee-ai；朋友环境的端到端出片尚未实测。**
 
 给需要做口播、真实录屏和解释视频的人：先确认自己的说话与画面设置，再用 ChatCut 维护可编辑母版，按需要接入其他素材与动效工具。
 
@@ -23,22 +23,22 @@
 
 安装目录依据当前 [Codex 官方文档](https://developers.openai.com/codex/skills/) 与 [Claude Code 官方文档](https://code.claude.com/docs/en/skills)。文件格式支持与实际视频功能是不同层级；请查看验证记录中的具体边界。
 
-## 私有仓库安装与本地安装
+## 安装
 
-仓库：[belalee-ai/video-editing-workflow-bundle](https://github.com/belalee-ai/video-editing-workflow-bundle)。这是私有仓库：只有仓库所有者及被授权的账号可以查看、下载或安装；仅发送链接不会授予访问权限。
+仓库：[belalee-ai/video-editing-workflow-bundle](https://github.com/belalee-ai/video-editing-workflow-bundle)。这是公开仓库，任何人都可以查看、下载和安装。
 
-已有仓库读取权限的使用者，先登录自己的 GitHub 账号，再下载：
+下载仓库：
 
 ```sh
-gh repo clone belalee-ai/video-editing-workflow-bundle
+git clone https://github.com/belalee-ai/video-editing-workflow-bundle.git
 cd video-editing-workflow-bundle
 ```
 
-也可以在有权限的 GitHub 网页下载 ZIP 并解压。收到完整文件夹后，让 AI 助手读取此 README，或进入本文件所在目录运行以下安装命令。不要把访问令牌放进聊天、安装请求或仓库文件。
+也可以在 GitHub 网页通过 Code → Download ZIP 下载并解压。收到完整文件夹后，让 AI 助手读取此 README，或进入本文件所在目录运行以下安装命令。不要把访问令牌放进聊天、安装请求或仓库文件。
 
 可复制给助手：
 
-> 请读取私有仓库 https://github.com/belalee-ai/video-editing-workflow-bundle 的 README（需要我的 GitHub 账号已获授权），把 skills 下的随包 Skill 安装到当前 Agent 的正确目录。不要覆盖同名 Skill 或已有定制；发现冲突先列出。先安装 11 个通用 Skill；只有我选定时才安装随包可选 Skill，不自动联网安装其他扩展，不上传素材、不登录代办、不启动视频生成。完成后报告安装路径、客户端是否识别，以及还缺哪些制作工具。
+> 请读取公开仓库 https://github.com/belalee-ai/video-editing-workflow-bundle 的 README，把 skills 下的随包 Skill 安装到当前 Agent 的正确目录。不要覆盖同名 Skill 或已有定制；发现冲突先列出。先安装 11 个通用 Skill；只有我选定时才安装随包可选 Skill，不自动联网安装其他扩展，不上传素材、不登录代办、不启动视频生成。完成后报告安装路径、客户端是否识别，以及还缺哪些制作工具。
 
 需要 Python 3 的本地安装命令（任选当前使用的一个 Agent）：
 
@@ -115,9 +115,9 @@ Claude Code 将 `--agent codex` 换为 `--agent claude`。安装器只复制你�
 
 ## 分享与许可
 
-自有通用内容采用 [MIT License](LICENSE)，版权署名为 belalee-ai。仓库可见性设置为 Private；MIT 不会自动让 GitHub 私有仓库公开。第三方组件保留自己的许可证，详见 [第三方说明](docs/THIRD-PARTY.md)，不被主包许可重新覆盖。[onetake 原仓库](https://github.com/feitangyuan/onetake)有非商业使用限制；部分音频、字体或运行依赖也有单独条件。
+自有通用内容采用 [MIT License](LICENSE)，版权署名为 belalee-ai。仓库可见性已设置为 Public。第三方组件保留自己的许可证，详见 [第三方说明](docs/THIRD-PARTY.md)，不被主包许可重新覆盖。[onetake 原仓库](https://github.com/feitangyuan/onetake)有非商业使用限制；部分音频、字体或运行依赖也有单独条件。
 
-当前按私有测试版分发，未公开。运行与安装检查见 [VERIFICATION.md](docs/VERIFICATION.md)；朋友环境的完整制作验证仍未完成。若以后需要公开，需另行确认仓库可见性和公开范围。
+当前按公开测试版分发。运行与安装检查见 [VERIFICATION.md](docs/VERIFICATION.md)；朋友环境的完整制作验证仍未完成。
 
 下图是随包 `good-broll` 原包的风格说明图，用于理解可选方向；它不是本组合包的实拍剪辑截图或端到端出片证明，也不是你的默认风格。
 
